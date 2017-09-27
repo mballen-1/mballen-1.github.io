@@ -1,10 +1,18 @@
 # Site settings
 title: Perfil del desarrollador
 email: migaballengal@unal.edu.co
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description:
+  > # this means to ignore newlines until "baseurl:"
+
+  Bienvenidos a mi blog de desarrollador y estudiante.
+  Entre mis principales temas de interés se encuentra el desarrollo web con tec-
+  nologías tales como Ruby on Rails y Javascript. Me interesa mucho el uso de
+  lenguajes de programación tales como c++ y Java para la implmentación de
+  algoritmos de diferente uso.
+
+  Entre otros temas de interés disfruto mucho la música clásica, el rock clásico,
+  temas de psicología y la literatura con autores como Sartre y
+  Kafka.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://facebook.com/mballeng" # the base hostname & protocol for your site
 twitter_username: mballeng91
