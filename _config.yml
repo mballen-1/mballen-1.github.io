@@ -1,8 +1,8 @@
 # Site settings
-title: Perfil del desarrolladorfsdsdf
+title: Perfil del desarrollador
 email: migaballengal@unal.edu.co
 description:
-  
+
   Bienvenidos a mi blog de desarrollador y estudiante.
   Entre mis principales temas de interés se encuentra el desarrollo web con tec-
   nologías tales como Ruby on Rails y Javascript. Me interesa mucho el uso de
@@ -10,13 +10,12 @@ description:
   algoritmos de diferente uso.
 
   Entre otros temas de interés disfruto mucho la música clásica, el rock clásico,
-  temas de psicología y la literatura con autores como Sartre y
-  Kafka.
+  temas de psicología y de la literatura (Sartre y Kafka).
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://facebook.com/mballeng" # the base hostname & protocol for your site
 twitter_username: mballeng91
 github_username:  mballeng91
+background-image: url('{{ http://hd.wallpaperswide.com/thumbs/pynx_nebula_2-t2.jpg }}')
 
 # Build settings
 markdown: kramdown
-s
