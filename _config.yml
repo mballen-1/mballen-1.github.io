@@ -1,16 +1,17 @@
 # Site settings
-title: Perfil del desarrollador
+title: Developer's profile
 email: migaballengal@unal.edu.co
 description:
 
-  Bienvenidos a mi blog de desarrollador y estudiante.
-  Entre mis principales temas de interés se encuentra el desarrollo web con tec-
-  nologías tales como Ruby on Rails y Javascript. Me interesa mucho el uso de
-  lenguajes de programación tales como c++ y Java para la implmentación de
-  algoritmos de diferente uso.
+  Hi! You're very welcome to my developer's blog! gihub pages is the 
+  perfect place to post interesting content and generate cool pages like this.
 
-  Entre otros temas de interés disfruto mucho la música clásica, el rock clásico,
-  temas de psicología y de la literatura (Sartre y Kafka).
+  I'm interest the most in web development using latest technologies like Ruby on Rails and Angular. I'm 
+  very interested in creating algorithms with c++ and Java programming languages for different uses and 
+  implementations. 
+
+  Other topics that attract my attention are classical music,  Hard rock and psychology. I also enjoy 
+  reading authors like Kafka specially The metamorfosis and Jean Paul Sartre' Nausea.  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://facebook.com/mballeng" # the base hostname & protocol for your site
 twitter_username: mballeng91
