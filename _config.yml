@@ -3,20 +3,23 @@ title: Developer's profile
 email: migaballengal@unal.edu.co
 description:
 
-  Hi! You're very welcome to my developer's blog! gihub pages is the 
+  Hi! You're very welcome to my developer's blog! gihub pages is the
   perfect place to post interesting content and generate cool pages like this.
 
-  I'm interest the most in web development using latest technologies like Ruby on Rails and Angular. I'm 
-  very interested in creating algorithms with c++ and Java programming languages for different uses and 
-  implementations. 
+  I'm interest the most in web development using latest technologies like Ruby on Rails and Angular. I'm
+  very interested in creating algorithms with c++ and Java programming languages for different uses and
+  implementations.
 
-  Other topics that attract my attention are classical music,  Hard rock and psychology. I also enjoy 
-  reading authors like Kafka specially The metamorfosis and Jean Paul Sartre' Nausea.  
+  Other topics that attract my attention are classical music,  Hard rock and psychology. I also enjoy
+  reading authors like Kafka specially The metamorfosis and Jean Paul Sartre's Nausea.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://facebook.com/mballeng" # the base hostname & protocol for your site
 twitter_username: mballeng91
 github_username:  mballeng91
 background-image: url('{{ http://hd.wallpaperswide.com/thumbs/pynx_nebula_2-t2.jpg }}')
+
+theme: jekyll-theme-cayman
+
 
 # Build settings
 markdown: kramdown
