@@ -16,10 +16,10 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://facebook.com/mballeng" # the base hostname & protocol for your site
 twitter_username: mballeng91
 github_username:  mballeng91
-background-image: url('{{ http://hd.wallpaperswide.com/thumbs/pynx_nebula_2-t2.jpg }}')
 
-theme: jekyll-theme-midnight
+
 
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-midnight
