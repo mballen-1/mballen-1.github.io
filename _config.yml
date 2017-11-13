@@ -1,25 +1,56 @@
-# Site settings
-title: Developer's profile
-email: migaballengal@unal.edu.co
-description:
+title: Miguel Angel Ballen
+description: > # this means to ignore newlines until "baseurl:"
+    Hi! You're very welcome to my profile page! Github pages is the
+    perfect place to post interesting content and generate cool pages like this
+    with automatic content generator (Jekyll).
 
-  Hi! You're very welcome to my developer's blog! gihub pages is the
-  perfect place to post interesting content and generate cool pages like this.
+baseurl: "/monday" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: ':title/'
+blog_theme: dark # Or use dark
 
-  I'm interest the most in web development using latest technologies like Ruby on Rails and Angular. I'm
-  very interested in creating algorithms with c++ and Java programming languages for different uses and
-  implementations.
+# Profile information
+name: Miguel Angel Ballén
+tagline: Systems and computing engineering student, software developer and musician!
+about-description: My name is Miguel, and I'm currently finishing my system and
+ computing engineering career at National University Of Colombia, started in
+ 2012. I'm very proud to show you some of my relevant academic projects and
+ some interesting info about music and things that I love!
+pic: mig.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
-  Other topics that attract my attention are classical music,  Hard rock and psychology. I also enjoy
-  reading authors like Kafka specially The metamorfosis and Jean Paul Sartre's Nausea.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://facebook.com/mballeng" # the base hostname & protocol for your site
-twitter_username: mballeng91
-github_username:  mballeng91
+# Contact links
+email: migaballengal@unal.edu.co # Add your Email address
+phone: 300 237 19 39 # Add your Phone number
+website: mballeng91.github.io # Add your website, do not add http://
+linkedin: mballeng91 # Add your Linkedin handle
+github: mballeng91 # Add your Github handle
+twitter: '@mballeng91' # Add your Twitter handle
 
+# Tracker
+analytics:
 
+# Comments
+discus-identifier: # Add your Disqus identifier
 
+# Important settings
+assets:
+  sources:
+    - assets/fonts
+    - assets/img
+    - assets/js
+    - assets/stylesheets
 
 # Build settings
-markdown: kramdown
-theme: jekyll-theme-midnight
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+gems:
+  - jekyll-feed
+  - jekyll-assets
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+include: [_pages]
