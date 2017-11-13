@@ -54,3 +54,5 @@ exclude:
   - Gemfile.lock
 
 include: [_pages]
+
+theme: jekyll-theme-midnight
