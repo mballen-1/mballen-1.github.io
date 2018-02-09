@@ -1,28 +1,27 @@
 ---
 layout: post
-title:  "Relevant projects during my academic experience"
-description: Here you can get info about web development, image analysis and software development projects.
+title:  "Relevant academic projects"
+description: Here you can read info about web development, image analysis and software development projects.
 img: shiva.png
 date: 2017-11-12  +0800
 ---
 
 
-## Alzheimer's detection using Matlab [(more info)] [m-lproy]
+## Alzheimer's detection using Math morphology and computing[(more info)] [m-lproy]
 
 >  This project used an important application of Mathematical Morphology. Theory
   that establish how operations over sets can help humans to detect diseases patterns
   in diagnose images like Alzheimer's disease.
 
 
-### Important concepts:
+### Relevant concepts:
 
 [Mathematical morphology][mat-morf]
-> This set's operations allow you to select and change some specific properties of an image.
-  We can say basic operations are non-linear and use different algebra from tipical
-  linear algebra.
-
-
-
+> This set's operations allow you to select and change some specific properties of a
+ black and white image.
+  These basic operations are non-linear, that means these operations cannot be plotted
+  in a straight line over the Cartessian plane. Thay are set functions
+   that involve union and intersection simultaneously. (Interesting! Is'n it ?)
 ## Maplendar! [(Github repo)][maplendar]:
 
 > This project used some of the current best technologies for web-development
