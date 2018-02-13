@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Relevant academic projects"
-description: Here you can read info about web development, image analysis and software development projects.
-img: shiva.png
-date: 2017-11-12  +0800
+description: Here you can read info about web development, and some important concepts about math.
+#img: dr-house.jpeg = 400x400#
+date: 2018-02-13  +0800
 ---
 
+
+<img src="/../../assets/img/academic.jpg" />
 
 ## Alzheimer's detection using Math morphology and computing[(more info)] [m-lproy]
 
@@ -22,6 +24,7 @@ date: 2017-11-12  +0800
   These basic operations are non-linear, that means these operations cannot be plotted
   in a straight line over the Cartessian plane. Thay are set functions
    that involve union and intersection simultaneously. (Interesting! Is'n it ?)
+
 ## Maplendar! [(Github repo)][maplendar]:
 
 > This project used some of the current best technologies for web-development
@@ -68,7 +71,7 @@ date: 2017-11-12  +0800
          > REST: Representational State Transfer.
       {% endhighlight %}
 
-#### Want more info about mvc and rest?
+#### Want more info about this patterns?
 [visit here][mvc]
 [and here ][rest]
 

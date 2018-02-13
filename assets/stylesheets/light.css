@@ -12,9 +12,9 @@ html {
   /* 1 */
   line-height: 1.15;
   /* 2 */
-  -ms-text-size-adjust: 100%;
+  -ms-text-size-adjust: 50%;
   /* 3 */
-  -webkit-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 50%;
   /* 3 */ }
 
 /* Sections
@@ -41,7 +41,7 @@ section {
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 h1 {
-  font-size: 2em;
+  font-size: 1em;
   margin: 0.67em 0; }
 
 /* Grouping content
@@ -81,7 +81,7 @@ hr {
 pre {
   font-family: monospace, monospace;
   /* 1 */
-  font-size: 1em;
+  font-size: 0.5em;
   /* 2 */ }
 
 /* Text-level semantics
@@ -159,7 +159,7 @@ mark {
  * Add the correct font size in all browsers.
  */
 small {
-  font-size: 80%; }
+  font-size: 50%; }
 
 /**
  * Prevent `sub` and `sup` elements from affecting the line height in
@@ -167,7 +167,7 @@ small {
  */
 sub,
 sup {
-  font-size: 75%;
+  font-size: 55%;
   line-height: 0;
   position: relative;
   vertical-align: baseline; }
@@ -219,7 +219,7 @@ select,
 textarea {
   font-family: sans-serif;
   /* 1 */
-  font-size: 100%;
+  font-size: 50%;
   /* 1 */
   line-height: 1.15;
   /* 1 */
@@ -408,7 +408,7 @@ template {
   box-sizing: border-box; }
 
 html {
-  font-size: 15px;
+  font-size: 11px;
   line-height: 1.5; }
 
 body {
