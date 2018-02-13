@@ -7,9 +7,11 @@ date: 2018-02-13  +0800
 ---
 
 
-<img src="/../../assets/img/academic.jpg" width = "900" height = "421"/>
+<img src="/../../assets/img/mri.jpeg" width="400" height="350" align="Right"/>
 
 ## Alzheimer's detection using Math morphology and computing
+
+
 
 >  This project used an important application of Mathematical Morphology. Theory
   that establish how operations over sets can help humans to detect diseases patterns
