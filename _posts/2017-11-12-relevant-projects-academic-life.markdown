@@ -7,9 +7,9 @@ date: 2018-02-13  +0800
 ---
 
 
-<img src="/../../assets/img/academic.jpg" />
+<img src="/../../assets/img/academic.jpg" width = "900" height = "421"/>
 
-## Alzheimer's detection using Math morphology and computing[(more info)] [m-lproy]
+## Alzheimer's detection using Math morphology and computing
 
 >  This project used an important application of Mathematical Morphology. Theory
   that establish how operations over sets can help humans to detect diseases patterns
@@ -24,6 +24,9 @@ date: 2018-02-13  +0800
   These basic operations are non-linear, that means these operations cannot be plotted
   in a straight line over the Cartessian plane. Thay are set functions
    that involve union and intersection simultaneously. (Interesting! Is'n it ?)
+
+[(more info)] [m-lproy]
+
 
 ## Maplendar! [(Github repo)][maplendar]:
 
