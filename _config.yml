@@ -7,15 +7,16 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "mballeng91.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
-blog_theme: dark # Or use dark
+blog_theme: light # Or use dark
 
 # Profile information
 name: Miguel Angel Ballén
-tagline: Systems and computing engineering student, software developer and musician!
-about-description: My name is Miguel, and I'm currently finishing my system and
- computing engineering career at National University Of Colombia, started in
- 2012. I'm very proud to show you some of my relevant academic projects and
- some interesting info about music and things that I love!
+tagline: Systems and Computing Engineering student at Universidad Nacional de Colombia with interest in Software Engineering
+
+about-description: My name is Miguel, and I'm studying Systems and Computing Engineering
+ at Universidad Nacional de Colombia, started in
+ 2012. I'm very glad to speak about some of my relevant academic projects and
+ some interesting info regarding development technologies and important computer science concepts! You're very welcome!
 pic: mig.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
@@ -27,7 +28,7 @@ github: mballeng91 # Add your Github handle
 twitter: '@mballeng91' # Add your Twitter handle
 
 # Tracker
-analytics:
+analytics: fasdfadfasdfadsfadfadfasdf
 
 # Comments
 discus-identifier: # Add your Disqus identifier
