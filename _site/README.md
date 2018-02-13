@@ -4,7 +4,7 @@
 Contains my developer profile powered by Automatic content generator (Jekyll) and Github pages https://pages.github.com/. The full content of webpage can be visualized at: https://mballeng91.github.io
 
 Welcome!
-![alt-text](pic.png)
+![100x100](assets/img/pic.png)
 
 # The Monday Jekyll theme
 =========================
