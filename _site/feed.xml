@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-18T00:44:00-05:00</updated><id>http://localhost:4000/</id><title type="html">Miguel Angel Ballen</title><subtitle>Hi! You're very welcome to my profile page! Github pages is the perfect place to post interesting content and generate cool pages like this with automatic content generator (Jekyll).
-</subtitle><entry><title type="html">Relevant academic projects</title><link href="http://localhost:4000/relevant-projects-academic-life/" rel="alternate" type="text/html" title="Relevant academic projects" /><published>2018-02-13T00:00:00-05:00</published><updated>2018-02-13T00:00:00-05:00</updated><id>http://localhost:4000/relevant-projects-academic-life</id><content type="html" xml:base="http://localhost:4000/relevant-projects-academic-life/">&lt;p&gt;&lt;img src=&quot;/../../assets/img/mri.jpeg&quot; width=&quot;400&quot; height=&quot;350&quot; align=&quot;Right&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-28T04:59:28-05:00</updated><id>http://localhost:4000/</id><title type="html">Miguel Angel Ballen</title><subtitle>Hi! You're very welcome to my profile page! Github pages is the perfect place to post interesting content and generate cool pages like this with automatic content generator (Jekyll).
+</subtitle><entry><title type="html">Visual computing: rendering</title><link href="http://localhost:4000/Visual-computing-Rendering/" rel="alternate" type="text/html" title="Visual computing: rendering" /><published>2018-02-18T00:00:00-05:00</published><updated>2018-02-18T00:00:00-05:00</updated><id>http://localhost:4000/Visual%20computing:%20Rendering</id><content type="html" xml:base="http://localhost:4000/Visual-computing-Rendering/"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Relevant academic projects</title><link href="http://localhost:4000/relevant-projects-academic-life/" rel="alternate" type="text/html" title="Relevant academic projects" /><published>2018-02-13T00:00:00-05:00</published><updated>2018-02-13T00:00:00-05:00</updated><id>http://localhost:4000/relevant-projects-academic-life</id><content type="html" xml:base="http://localhost:4000/relevant-projects-academic-life/">&lt;div align=&quot;center&quot;&gt;
+&lt;img src=&quot;/../../assets/img/mri.jpeg&quot; style=&quot;width:200px; height:200px;&quot; /&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;alzheimers-detection-using-math-morphology-and-computing&quot;&gt;Alzheimer’s detection using Math morphology and computing&lt;/h2&gt;
 
@@ -21,6 +23,10 @@
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.researchgate.net/publication/296752074_Deteccion_de_Alzheimer_en_Imagenes_de_Resonancia_Magnetica_por_Medio_de_Morfologia_Matematica_y_Computacion&quot;&gt;(more info)&lt;/a&gt;&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;img src=&quot;/../../assets/img/mapache.jpeg&quot; style=&quot;width:200px; height:200px;&quot; /&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;maplendar-github-repo&quot;&gt;Maplendar! &lt;a href=&quot;https://github.com/MapLendar&quot;&gt;(Github repo)&lt;/a&gt;:&lt;/h2&gt;
 
@@ -52,6 +58,9 @@
 
 &lt;h4 id=&quot;want-more-info-about-ruby-on-rails&quot;&gt;Want more info about Ruby on Rails?&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&quot;http://rubyonrails.org/&quot;&gt;visit here&lt;/a&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;img src=&quot;/../../assets/img/books.jpg&quot; style=&quot;width:200px; height:200px;&quot; /&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;bookshare-github-repo&quot;&gt;Bookshare! &lt;a href=&quot;https://github.com/librarySI2UNAL&quot;&gt;(Github repo)&lt;/a&gt;:&lt;/h2&gt;
 &lt;blockquote&gt;

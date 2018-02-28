@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Relevant academic projects"
-description: Here you can read info about web development, and some important concepts about math.
-#img: dr-house.jpeg = 400x400#
+description: Here you can read info about web development, and some important concepts about math morphology.
+img: /../../assets/img/mri.jpeg
 date: 2018-02-13  +0800
 ---
 
-
-<img src="/../../assets/img/mri.jpeg" width="400" height="350" align="Right"/>
+<div align="center">
+<img src="/../../assets/img/mri.jpeg" style="width:200px; height:200px;"/>
+</div>
 
 ## Alzheimer's detection using Math morphology and computing
 
@@ -29,6 +30,9 @@ date: 2018-02-13  +0800
 
 [(more info)] [m-lproy]
 
+<div align="center">
+<img src="/../../assets/img/mapache.jpeg" style="width:200px; height:200px;"/>
+</div>
 
 ## Maplendar! [(Github repo)][maplendar]:
 
@@ -54,7 +58,9 @@ date: 2018-02-13  +0800
 
 #### Want more info about Ruby on Rails?
    [visit here][ruby]
-
+<div align="center">
+<img src="/../../assets/img/books.jpg" style="width:200px; height:200px;"/>
+</div>
 
 ## Bookshare! [(Github repo)][bookshare]:
 >  This project used Ruby on Rails and Angular 2 for web app that was
