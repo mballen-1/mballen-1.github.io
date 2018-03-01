@@ -13,10 +13,10 @@ blog_theme: light # Or use dark
 name: Miguel Angel Ballén
 tagline: Systems and Computing Engineering student at Universidad Nacional de Colombia with interest in Software Engineering
 
-about-description: Currently studying Systems and Computing Engineering
- at Universidad Nacional de Colombia, started in
- 2012. I'm very glad to speak about some of my relevant academic projects and
- some interesting info regarding development technologies and important computer science concepts! You're very welcome!
+about-description:  I'm very glad to speak about some of my relevant academic projects and
+ some interesting info regarding development technologies and important computer science concepts! I'm a very big fan of Metallica and I play bass and guitar inspired by this musical group.
+ I also enjoy dancing salsa, playing billiar pool, and participating in funny karaokes!
+ 
 pic: pic.png  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
